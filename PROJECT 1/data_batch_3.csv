@@ -1,0 +1,101 @@
+Date,Category,Payment mode,Description,Amount,Cashback
+2024-03-01,Subscriptions,UPI,OTT platform subscriptions.,1533.36,0
+2024-03-01,Housing,Cash,Rent for housing.,1831.81,0
+2024-03-01,Entertainment,UPI,Movie tickets for entertainment.,1163.99,0
+2024-03-02,Transportation,UPI,Fuel for transportation.,491.65,1
+2024-03-02,Food,UPI,Groceries for food.,794.59,0
+2024-03-02,Subscriptions,UPI,Music streaming subscriptions.,1061.5,0
+2024-03-02,Food,Cash,Dining out at restaurants.,551.1,0
+2024-03-02,Housing,Cash,Repairs for housing.,1716.16,0
+2024-03-03,Food,Cash,Bakery items for food.,1835.5,0
+2024-03-03,Healthcare,Cash,Doctor visits for healthcare.,1967.45,0
+2024-03-03,Transportation,Debit Card,Public transport tickets.,1011.76,0
+2024-03-03,Food,Cash,Specialty groceries.,1163.02,0
+2024-03-03,Food,Debit Card,Snacks and beverages.,1105.35,0
+2024-03-04,Subscriptions,UPI,Learning app subscriptions.,599.65,0
+2024-03-04,Food,UPI,Takeout meals.,364.6,0
+2024-03-04,Entertainment,Debit Card,Concert tickets for entertainment.,1689.3,0
+2024-03-04,Subscriptions,UPI,Gym memberships.,571.65,0
+2024-03-04,Entertainment,UPI,Sports event tickets.,1977.36,0
+2024-03-05,Healthcare,Cash,Prescriptions for healthcare.,701.01,0
+2024-03-05,Housing,UPI,Maintenance fees for housing.,305.7,0
+2024-03-05,Entertainment,UPI,Theme park tickets for entertainment.,343.05,0
+2024-03-05,Entertainment,Debit Card,Books for entertainment.,1723.2,0
+2024-03-05,Subscriptions,Debit Card,Cloud storage subscriptions.,959.68,0
+2024-03-06,Housing,Debit Card,Utilities for housing.,1152.07,0
+2024-03-06,Housing,Debit Card,Cleaning services for housing.,348.89,0
+2024-03-06,Housing,Debit Card,Appliance repairs for housing.,1293.97,0
+2024-03-07,Healthcare,Debit Card,Therapy sessions.,585.6,0
+2024-03-07,Healthcare,Cash,Lab tests for healthcare.,1595.98,0
+2024-03-07,Transportation,Debit Card,Taxi or ride-sharing fares.,1070.29,0
+2024-03-08,Transportation,UPI,Car repairs for transportation.,846.63,0
+2024-03-08,Healthcare,Cash,Health insurance premiums.,1509.42,0
+2024-03-08,Housing,UPI,Pest control services for housing.,962.81,0
+2024-03-08,Housing,Cash,Garden maintenance for housing.,1634.5,0
+2024-03-08,Entertainment,Debit Card,Board games for entertainment.,1714.61,0
+2024-03-09,Healthcare,Cash,Vaccinations for healthcare.,1331.65,0
+2024-03-09,Housing,Cash,Home insurance premiums.,745.61,0
+2024-03-09,Healthcare,Debit Card,Physiotherapy sessions.,959.92,0
+2024-03-09,Subscriptions,UPI,Software licenses for subscriptions.,614.75,4
+2024-03-10,Entertainment,UPI,Video game purchases for entertainment.,562.6,0
+2024-03-10,Transportation,UPI,Parking fees for transportation.,326.73,0
+2024-03-10,Healthcare,Cash,Emergency medical expenses.,531.53,0
+2024-03-10,Food,Cash,Frozen foods for food.,621.6,0
+2024-03-10,Food,Debit Card,Pet food expenses.,1723.62,0
+2024-03-11,Entertainment,Debit Card,Karaoke nights.,107.57,0
+2024-03-11,Subscriptions,Cash,Magazine subscriptions.,515.36,0
+2024-03-11,Entertainment,Cash,Sports event tickets.,470.11,0
+2024-03-11,Transportation,Cash,Airline tickets for transportation.,574.53,0
+2024-03-12,Food,Debit Card,Meal kit delivery services.,788.6,0
+2024-03-13,Subscriptions,Cash,Cloud storage subscriptions.,1191.7,0
+2024-03-13,Entertainment,Cash,Camping gear for entertainment.,666.54,0
+2024-03-14,Entertainment,UPI,Museum or exhibition fees.,1134.09,0
+2024-03-14,Housing,Debit Card,Home decor purchases.,1151.82,0
+2024-03-14,Healthcare,Debit Card,Health checkups for healthcare.,1771.45,0
+2024-03-15,Housing,Debit Card,Cleaning services for housing.,1493.76,0
+2024-03-15,Food,UPI,Dining out at restaurants.,1540.35,0
+2024-03-16,Food,Debit Card,Groceries for food.,1863.76,0
+2024-03-16,Healthcare,UPI,Prescription renewals.,1581.92,0
+2024-03-16,Transportation,Cash,Car insurance premiums.,720.83,0
+2024-03-16,Entertainment,UPI,Escape room tickets for entertainment.,1302.16,0
+2024-03-17,Entertainment,Cash,Movies for entertainment.,292.34,0
+2024-03-17,Food,Debit Card,Breakfast expenses.,891.15,0
+2024-03-17,Subscriptions,Debit Card,Audiobook subscriptions.,343.94,0
+2024-03-17,Subscriptions,UPI,Fitness streaming services.,1810.9,0
+2024-03-17,Entertainment,UPI,Outdoor activities for entertainment.,1621.05,0
+2024-03-18,Housing,Debit Card,Utilities for housing.,907.71,0
+2024-03-18,Healthcare,Debit Card,Alternative medicine expenses.,1615.14,0
+2024-03-18,Healthcare,Cash,Therapy sessions.,542.97,0
+2024-03-18,Transportation,Debit Card,Car maintenance for transportation.,866.12,0
+2024-03-19,Subscriptions,UPI,Language course subscriptions.,798.69,5
+2024-03-19,Healthcare,Cash,Therapy sessions.,838.2,0
+2024-03-19,Entertainment,UPI,Camping gear for entertainment.,504.76,0
+2024-03-20,Food,UPI,Gourmet food purchases.,964.75,0
+2024-03-20,Housing,Cash,Home renovations for housing.,698.16,0
+2024-03-20,Entertainment,UPI,Video streaming subscriptions.,1518.57,0
+2024-03-21,Subscriptions,Debit Card,Pest control services for housing.,1538.03,0
+2024-03-21,Housing,Debit Card,Sports memberships.,1526.61,0
+2024-03-21,Subscriptions,UPI,Rent for housing.,1464.07,0
+2024-03-21,Transportation,Cash,Learning app subscriptions.,982.1,0
+2024-03-21,Healthcare,UPI,Repairs for housing.,1182.14,0
+2024-03-22,Food,Debit Card,Subscription services for software.,1548.45,0
+2024-03-22,Entertainment,UPI,Doctor visits for healthcare.,496.5,0
+2024-03-22,Housing,Cash,Wellness retreats.,1502.6,0
+2024-03-22,Subscriptions,Debit Card,Dining out at restaurants.,1337.94,0
+2024-03-22,Housing,Debit Card,Sports event tickets for entertainment.,855.54,0
+2024-03-23,Housing,UPI,Home insurance premiums.,358.64,0
+2024-03-23,Subscriptions,UPI,Magazine subscriptions.,311.69,0
+2024-03-23,Healthcare,Cash,Bike rental services.,1746,0
+2024-03-24,Healthcare,Debit Card,Vaccinations for healthcare.,691.49,0
+2024-03-25,Food,UPI,Pet food purchases.,1221.43,0
+2024-03-25,Entertainment,Debit Card,Board games for entertainment.,1749.07,0
+2024-03-25,Healthcare,Debit Card,Emergency medical expenses.,670.52,0
+2024-03-25,Transportation,Debit Card,Public transport tickets.,1173.29,0
+2024-03-25,Housing,Debit Card,Utilities for housing.,1606.51,0
+2024-03-26,Transportation,UPI,Fuel for transportation.,455.68,0
+2024-03-26,Subscriptions,UPI,Audiobook subscriptions.,304.01,3
+2024-03-26,Entertainment,Debit Card,Streaming services for entertainment.,817.88,0
+2024-03-27,Transportation,UPI,Toll charges for transportation.,211.58,0
+2024-03-27,Subscriptions,Debit Card,News app subscriptions.,259.07,0
+2024-03-27,Transportation,UPI,Car rental charges.,618.11,0
+2024-03-27,Subscriptions,UPI,Music streaming subscriptions.,185.51,0

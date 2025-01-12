@@ -1,0 +1,101 @@
+Date,Category,Payment mode,Description,Amount,Cashback
+2024-01-01,Transportation,UPI,Fuel for transportation,192.91,5
+2024-01-01,Transportation,UPI,Fuel for transportation,1030.52,0
+2024-01-01,Food,UPI,Groceries for food,786.99,0
+2024-01-01,Healthcare,Debit Card,Prescriptions for healthcare,916.22,0
+2024-01-01,Transportation,UPI,Fuel for transportation,338.91,0
+2024-01-01,Transportation,Debit Card,Fuel for transportation,1803.11,0
+2024-01-02,Entertainment,Cash,Movies for entertainment,1888.43,0
+2024-01-02,Healthcare,Cash,Prescriptions for healthcare,1375.76,0
+2024-01-02,Housing,Cash,Rent for housing,1414.32,0
+2024-01-02,Entertainment,Cash,Movies for entertainment,705.74,0
+2024-01-02,Entertainment,Debit Card,Movies for entertainment,1316.36,0
+2024-01-04,Food,Debit Card,Groceries for food,1521.66,0
+2024-01-04,Entertainment,Debit Card,Movies for entertainment,1066.75,0
+2024-01-05,Subscriptions,UPI,Subscription services for subscriptions,370.28,0
+2024-01-05,Housing,UPI,Rent for housing,891.35,0
+2024-01-06,Transportation,Debit Card,Fuel for transportation,853.65,0
+2024-01-07,Housing,Debit Card,Rent for housing,1628.45,0
+2024-01-07,Food,Debit Card,Groceries for food,123.8,0
+2024-01-07,Entertainment,Debit Card,Movies for entertainment,607.59,0
+2024-01-07,Entertainment,Debit Card,Movies for entertainment,1606.1,0
+2024-01-07,Healthcare,Cash,Prescriptions for healthcare,274.91,0
+2024-01-08,Subscriptions,Cash,Subscription services for subscriptions,147.51,0
+2024-01-08,Food,Debit Card,Groceries for food,968.78,0
+2024-01-09,Entertainment,Debit Card,Movies for entertainment,1194.84,0
+2024-01-09,Transportation,Debit Card,Fuel for transportation,1747.14,0
+2024-01-09,Transportation,UPI,Fuel for transportation,1450.75,0
+2024-01-09,Housing,Cash,Rent for housing,1820.43,0
+2024-01-10,Housing,Debit Card,Rent for housing,1279.19,0
+2024-01-10,Housing,Cash,Rent for housing,1521.12,0
+2024-01-10,Entertainment,Debit Card,Movies for entertainment,1094.32,0
+2024-01-10,Transportation,Cash,Fuel for transportation,969.88,0
+2024-01-10,Food,Debit Card,Groceries for food,166.3,0
+2024-01-11,Healthcare,Debit Card,Doctor visits for healthcare,1228.02,0
+2024-01-11,Housing,UPI,Rent for housing,850.19,0
+2024-01-11,Entertainment,Debit Card,Movies for entertainment,1078.76,0
+2024-01-11,Subscriptions,Debit Card,Subscription services for subscriptions,1769.58,0
+2024-01-11,Healthcare,Cash,Doctor visits for healthcare,1326.64,0
+2024-01-11,Subscriptions,Cash,Subscription services for subscriptions,543.6,0
+2024-01-12,Healthcare,Debit Card,Doctor visits for healthcare,811.96,0
+2024-01-12,Housing,Cash,Rent for housing,1408.74,0
+2024-01-12,Entertainment,UPI,Movies for entertainment,300.19,0
+2024-01-13,Transportation,Debit Card,Fuel for transportation,269.83,0
+2024-01-13,Transportation,Cash,Fuel for transportation,351.64,0
+2024-01-13,Transportation,Debit Card,Fuel for transportation,681.64,0
+2024-01-13,Food,Cash,Groceries for food,1005.45,0
+2024-01-13,Food,Debit Card,Groceries for food,759.88,0
+2024-01-14,Housing,UPI,Rent for housing,1436.49,0
+2024-01-14,Healthcare,Cash,Doctor visits for healthcare,498.08,0
+2024-01-14,Subscriptions,Cash,Subscription services for subscriptions,1588.35,0
+2024-01-14,Food,Cash,Groceries for food,1822.04,0
+2024-01-14,Healthcare,UPI,Prescriptions for healthcare,1040.86,3
+2024-01-15,Entertainment,Cash,Movies for entertainment,1607.93,0
+2024-01-15,Transportation,Debit Card,Fuel for transportation,850.52,0
+2024-01-16,Healthcare,Cash,Prescriptions for healthcare,1467.96,0
+2024-01-16,Transportation,Debit Card,Fuel for transportation,1692.9,0
+2024-01-16,Entertainment,Cash,Movies for entertainment,1138.56,0
+2024-01-16,Subscriptions,Debit Card,Subscription services for subscriptions,1717.49,0
+2024-01-16,Food,Debit Card,Groceries for food,325.32,0
+2024-01-16,Entertainment,Debit Card,Movies for entertainment,1544.28,0
+2024-01-18,Subscriptions,Debit Card,Subscription services for subscriptions,614.55,0
+2024-01-18,Transportation,Cash,Fuel for transportation,1206.37,0
+2024-01-18,Housing,Cash,Rent for housing,1151.98,0
+2024-01-18,Transportation,UPI,Fuel for transportation,1823.27,0
+2024-01-18,Subscriptions,Debit Card,Subscription services for subscriptions,454.67,0
+2024-01-19,Food,Debit Card,Groceries for food,1861.13,0
+2024-01-19,Food,Cash,Groceries for food,1649.5,0
+2024-01-19,Healthcare,Cash,Prescriptions for healthcare,1387.61,0
+2024-01-19,Subscriptions,UPI,Subscription services for subscriptions,196.9,0
+2024-01-19,Transportation,Cash,Fuel for transportation,593.43,0
+2024-01-19,Healthcare,UPI,Prescriptions for healthcare,1765.15,0
+2024-01-19,Healthcare,UPI,Prescriptions for healthcare,1203.41,0
+2024-01-19,Food,Cash,Groceries for food,510.76,0
+2024-01-19,Entertainment,UPI,Movies for entertainment,1298.63,0
+2024-01-20,Subscriptions,Cash,Subscription services for subscriptions,1503.58,0
+2024-01-20,Housing,Debit Card,Rent for housing,378,0
+2024-01-20,Food,Debit Card,Groceries for food,937.62,0
+2024-01-20,Entertainment,UPI,Movies for entertainment,752.35,0
+2024-01-20,Transportation,UPI,Fuel for transportation,1561.2,0
+2024-01-20,Entertainment,Debit Card,Movies for entertainment,1054.39,0
+2024-01-20,Housing,Debit Card,Rent for housing,1259.87,0
+2024-01-20,Housing,UPI,Rent for housing,1156.91,0
+2024-01-21,Healthcare,Cash,Prescriptions for healthcare,877.9,0
+2024-01-21,Subscriptions,Cash,Subscription services for subscriptions,1034.63,0
+2024-01-21,Healthcare,Cash,Prescriptions for healthcare,211.79,0
+2024-01-22,Housing,Debit Card,Rent for housing,1377.53,0
+2024-01-22,Healthcare,Cash,Prescriptions for healthcare,1923.54,0
+2024-01-22,Subscriptions,UPI,Subscription services for subscriptions,1746.95,0
+2024-01-22,Entertainment,Cash,Movies for entertainment,1242.16,0
+2024-01-23,Food,Debit Card,Groceries for food,957.79,0
+2024-01-24,Subscriptions,Cash,Subscription services for subscriptions,980.68,0
+2024-01-25,Healthcare,Cash,Prescriptions for healthcare,644.4,0
+2024-01-25,Food,UPI,Groceries for food,222.16,4
+2024-01-25,Entertainment,Cash,Movies for entertainment,1661.17,0
+2024-01-25,Housing,Debit Card,Rent for housing,617.23,0
+2024-01-25,Transportation,Debit Card,Fuel for transportation,346.03,0
+2024-01-26,Healthcare,Debit Card,Prescriptions for healthcare,1050.93,0
+2024-01-26,Housing,Debit Card,Rent for housing,1587.17,0
+2024-01-26,Housing,Debit Card,Rent for housing,248.68,0
+2024-01-26,Subscriptions,Cash,Subscription services for subscriptions,1884.53,0
+2024-01-27,Subscriptions,Debit Card,Subscription services for subscriptions,307.67,0
